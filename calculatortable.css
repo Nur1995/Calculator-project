@@ -1,0 +1,36 @@
+.title {
+    margin-left: 160px;
+    background-color: lightgrey;
+    max-width: 300px;
+    font-family: 'Space Mono', monospace;
+}
+
+table {
+    background-color: rgb(161, 177, 182);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    border: 1px;
+    border-radius: 10px;
+    width: 32%;
+    height: 40%;
+    padding-bottom: 1.5%;
+}
+
+.allBtn {
+    display: grid;
+    font-family: 'Space Mono', monospace;
+}
+
+.calcbtnAC {
+    background-color: rgb(197, 97, 60);
+    font-size: 30px;
+}
+
+.calcbtn {
+    background-color: cornflowerblue;
+    font-size: 20px;
+}
